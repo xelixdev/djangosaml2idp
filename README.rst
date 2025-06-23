@@ -203,7 +203,7 @@ Install the dev dependencies in ``requirements-dev.txt``::
 Run the test suite from the project root::
 
   tox -e format  # to run linting
-  tox -e py3.7-django3.0  # to run the tests
+  tox -e py3.13-django5.2  # to run the tests
   tox -e typing  # to run typechecking, this is allowed to fail
 
 Tests will be ran using CI when opening a merge request as well.
