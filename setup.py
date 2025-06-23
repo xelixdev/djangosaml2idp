@@ -22,17 +22,6 @@ setup(
         'pytz',
         'arrow',
     ],
-    extras_require={
-        "testing": [
-            "pytest",
-            "pytest-runner",
-            "pytest-django",
-            "pytest-cov",
-            "pytest-pythonpath",
-            "pytest-mock",
-            "requests-mock"
-        ]
-    },
     python_requires=">=3.9",
     license='Apache Software License 2.0',
     packages=find_packages(exclude=["tests*", "docs", "example_setup"]),
