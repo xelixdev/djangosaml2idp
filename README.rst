@@ -4,21 +4,29 @@ djangosaml2idp
 
 .. image:: https://img.shields.io/pypi/v/djangosaml2idp2.svg
     :scale: 100%
+    :width: 78
+    :height: 20
     :target: https://pypi.python.org/pypi/djangosaml2idp2
     :alt: PyPi
 
 .. image:: https://img.shields.io/pypi/pyversions/djangosaml2idp2
     :scale: 100%
+    :width: 78
+    :height: 20
     :target: https://www.python.org/
     :alt: PyPI - Python Version
 
 .. image:: https://img.shields.io/pypi/djversions/djangosaml2idp2
     :scale: 100%
+    :width: 78
+    :height: 20
     :target: https://www.djangoproject.com/
     :alt: PyPI - Django Version
 
 .. image:: https://img.shields.io/badge/License-Apache%202.0-blue.svg
     :scale: 100%
+    :width: 78
+    :height: 20
     :target: https://www.apache.org/licenses/LICENSE-2.0
     :alt: Apache 2.0 License
 
