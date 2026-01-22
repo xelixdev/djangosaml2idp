@@ -62,6 +62,7 @@ packaging==25.0
     #   pyproject-api
     #   pytest
     #   tox
+    #   wheel
 pip-tools==7.4.1
     # via -r requirements-dev.in
 platformdirs==4.3.8
@@ -139,7 +140,7 @@ virtualenv==20.31.2
     # via
     #   pre-commit
     #   tox
-wheel==0.45.1
+wheel==0.46.2
     # via pip-tools
 xmlschema==2.5.1
     # via pysaml2
