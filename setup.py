@@ -25,7 +25,7 @@ setup(
     python_requires=">=3.9",
     license='Apache Software License 2.0',
     packages=find_packages(exclude=["tests*", "docs", "example_setup"]),
-    url='https://github.com/OTA-Insight/djangosaml2idp/',
+    url='https://github.com/xelixdev/djangosaml2idp',
     zip_safe=False,
     include_package_data=True,
     classifiers=[
